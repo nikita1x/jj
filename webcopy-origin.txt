@@ -1,0 +1,236 @@
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: C:\Downloaded Web Sites\www.zolla.ga\js\client.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Comfortaa:i%2Cbi%2C700%2C400%2C500&display=swap
+File Name: C:\Downloaded Web Sites\www.zolla.ga\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: C:\Downloaded Web Sites\www.zolla.ga\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\comfortaa\v40\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\comfortaa\v40\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\comfortaa\v40\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v45/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\googlesans\v45\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v45/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\googlesans\v45\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://lh3.googleusercontent.com/5SG3pDIUgP8ErqtnPpSTtn2VIJV0MA9fY-GL57x0AHjXDR5vkd-cxLJSMq3gIiK1ly-RI-ikVIsOFSpTPXHrN_JIlHmg1UxT3DRBGmOYyywC8FOSCC-v8Uq1-q686iPBsw=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\5SG3pDIUgP8ErqtnPpSTtn2VIJV0MA9fY-GL57x0AHjXDR5vkd-cxLJSMq3gIiK1ly-RI-ikVIsOFSpTPXHrN_JIlHmg1UxT3DRBGmOYyywC8FOSCC-v8Uq1-q686iPBsw=w1280
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/8HuxeZBGnb44IbGQgmcA52F7DXNyrJX4ueDZoAFJcU7PU2tqaO1kjIJinCLXyFLk6tarWYNmIJrhEIQSoM2LqfE8M_HRZ_pKQ64hx_OK551RgffJ
+File Name: C:\Downloaded Web Sites\www.zolla.ga\8HuxeZBGnb44IbGQgmcA52F7DXNyrJX4ueDZoAFJcU7PU2tqaO1kjIJinCLXyFLk6tarWYNmIJrhEIQSoM2LqfE8M_HRZ_pKQ64hx_OK551RgffJ
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/8vYG8W2nxsXwW6viszMpRv6mzPqWRE1-icN_qxG_GVvci46zvJ953sKQDj0WfkpCEqIAZjUGeRnDvGVXdtiOR7Y7d0dZ7zWtFSuj_e0eU6RFzFmxxu5u-wsX_YOjq4v3Jg=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\8vYG8W2nxsXwW6viszMpRv6mzPqWRE1-icN_qxG_GVvci46zvJ953sKQDj0WfkpCEqIAZjUGeRnDvGVXdtiOR7Y7d0dZ7zWtFSuj_e0eU6RFzFmxxu5u-wsX_YOjq4v3Jg=w1280
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/NC3mCS-20vxJ_N8cIvXc5hbGIRRDf4FDAwg6T52ytyDf8WUt3CDPwdF_sMsrk7ZIG3Vfh7iglvUp5oVoVU9UBe8=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\NC3mCS-20vxJ_N8cIvXc5hbGIRRDf4FDAwg6T52ytyDf8WUt3CDPwdF_sMsrk7ZIG3Vfh7iglvUp5oVoVU9UBe8=w1280
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/vstLbD8yVGdMm47OAfAl_VSRPO0oGu2pPj2Sb7HZNzOnLpljs0cZq7t5wmGEK1VS7-xc7kyuetGbZtQdnUELXfTNGUgvPMX-bHVDx6zyGf0i8qsPg18BZUo2Gd09ZR3JNg=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\vstLbD8yVGdMm47OAfAl_VSRPO0oGu2pPj2Sb7HZNzOnLpljs0cZq7t5wmGEK1VS7-xc7kyuetGbZtQdnUELXfTNGUgvPMX-bHVDx6zyGf0i8qsPg18BZUo2Gd09ZR3JNg=w1280
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/3CUMbPDE6t1LYb8L1wvCG5vfFLsHaph7qRJBU7WUIk6cYM8b4yHILMjuIFaoJ5yoz5qgrIpbCkMIDBtLe9eDvyc=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\3CUMbPDE6t1LYb8L1wvCG5vfFLsHaph7qRJBU7WUIk6cYM8b4yHILMjuIFaoJ5yoz5qgrIpbCkMIDBtLe9eDvyc=w1280
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/duVxxc7CIOyYXa1BqF7WRq3hyunMtnYi9fHDijTTBiFwLlWmcBMvK-Bfn73zvntKhIn338pavs-tMxDGRC3UxCo=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\duVxxc7CIOyYXa1BqF7WRq3hyunMtnYi9fHDijTTBiFwLlWmcBMvK-Bfn73zvntKhIn338pavs-tMxDGRC3UxCo=w1280
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/Juy5YfSaFwuLm6xV98tBFw1kHGqb2RUapk603oPTvWG5sHFPvJRkFM6S3ZOuNirH6DdM4kZTzo2sbibmq1_nloA=w16383
+File Name: C:\Downloaded Web Sites\www.zolla.ga\Juy5YfSaFwuLm6xV98tBFw1kHGqb2RUapk603oPTvWG5sHFPvJRkFM6S3ZOuNirH6DdM4kZTzo2sbibmq1_nloA=w16383
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/TFHiXUUHemzHhvoannl7QF6rGtZ9OTcRpd40k_ctl4mpKb41X1OqWJ_LbRl5qZrcaBSnDET1RFOcWgRpOy_DQWHW9fVvTeymVaPf97Nx0T7VNATST_EWH0-u8TskSxGf6A=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\TFHiXUUHemzHhvoannl7QF6rGtZ9OTcRpd40k_ctl4mpKb41X1OqWJ_LbRl5qZrcaBSnDET1RFOcWgRpOy_DQWHW9fVvTeymVaPf97Nx0T7VNATST_EWH0-u8TskSxGf6A=w1280
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/ZDsi4f0JCCEFVdBKL-29XPo7pJ1TeyQ42o1lcuJuVwHKt1wJVy-oyUsvFBijhVkviDdkGRms6fpmZRusgTI-QIW4QbbX8HsgQ1LtjKkixHUm36xeVtfCUK2oKqwIsjYSNg=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\ZDsi4f0JCCEFVdBKL-29XPo7pJ1TeyQ42o1lcuJuVwHKt1wJVy-oyUsvFBijhVkviDdkGRms6fpmZRusgTI-QIW4QbbX8HsgQ1LtjKkixHUm36xeVtfCUK2oKqwIsjYSNg=w1280
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/9qoKihIKXOYzVeL8Y6JS16nKpSDOfddlsrwYEq1PA7Pkc4g6OBKzjOfh33cQ14-7175cqzScsblIvkTViLpGLg=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\9qoKihIKXOYzVeL8Y6JS16nKpSDOfddlsrwYEq1PA7Pkc4g6OBKzjOfh33cQ14-7175cqzScsblIvkTViLpGLg=w1280
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/ggWoTSk5Un6mwVC7g99yksMYDqCbhym-Sks0OlZ0Upo3-mVYRhA92cbKvVxKfAnFpXpF_68wWbEBuifgKl4OW0s=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\ggWoTSk5Un6mwVC7g99yksMYDqCbhym-Sks0OlZ0Upo3-mVYRhA92cbKvVxKfAnFpXpF_68wWbEBuifgKl4OW0s=w1280
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/MySeso6IrtutmGZpbnyOlG4puQz7tSS6mS5lz_qMop4HffGAfi8pm28m7DRA1LyB-nDWx_3NumgSN-P0DPGpUiQ=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\MySeso6IrtutmGZpbnyOlG4puQz7tSS6mS5lz_qMop4HffGAfi8pm28m7DRA1LyB-nDWx_3NumgSN-P0DPGpUiQ=w1280
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/TN_MCSjVaW3AQS89AgbReAGwL6_nKh7XOgVs5ghLogdgtY6Qpu1wtGXbhrMlN0deCEF3BS3jhYCMi33AFg4KJxw=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\TN_MCSjVaW3AQS89AgbReAGwL6_nKh7XOgVs5ghLogdgtY6Qpu1wtGXbhrMlN0deCEF3BS3jhYCMi33AFg4KJxw=w1280
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/fV-A3SA6TcuU7D182BjflzSPyP5lGGy7VU7M7ydz8yX2Apadpx0aG8870UMRsDXfrOf5JwTRCjC20q9aSaAa3xyaMqLEFeHK7K_r1bowx-ICR8sFQTv60sMVY1J3fB2nAw=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\fV-A3SA6TcuU7D182BjflzSPyP5lGGy7VU7M7ydz8yX2Apadpx0aG8870UMRsDXfrOf5JwTRCjC20q9aSaAa3xyaMqLEFeHK7K_r1bowx-ICR8sFQTv60sMVY1J3fB2nAw=w1280
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/irWuHbcn4TpX8t8kIPfHF1qEgZZPDMFYhaxab-e2rRURsDdAQgOZenGB-hz4CZevedG3K-JwcrBZcu97zcaiSHQ=w16383
+File Name: C:\Downloaded Web Sites\www.zolla.ga\irWuHbcn4TpX8t8kIPfHF1qEgZZPDMFYhaxab-e2rRURsDdAQgOZenGB-hz4CZevedG3K-JwcrBZcu97zcaiSHQ=w16383
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/IUko6crzjOmuEECkckINgOpFmXKBONDtphnr3YS2NmhpEEhEjNZHpJ4hwUE-BBT_g2WbeSqs9DV_KuUNJMnscr6TMLokt7MRQKW_HnAghGc2TCVtWWf1GfGCF4iupJ0OxQ=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\IUko6crzjOmuEECkckINgOpFmXKBONDtphnr3YS2NmhpEEhEjNZHpJ4hwUE-BBT_g2WbeSqs9DV_KuUNJMnscr6TMLokt7MRQKW_HnAghGc2TCVtWWf1GfGCF4iupJ0OxQ=w1280
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/M-2A71RPWvKftYHKtxVpT1Pt_QqcmXf0zGQ1iQmo44kqkcgVQEgfdonyV1DWh4v2ffvrThqGr68moPai_HIvdC8o3PmsOjxytcClsK_N-YBTd9lm0Gxf7dFHA3tGkXnv=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\M-2A71RPWvKftYHKtxVpT1Pt_QqcmXf0zGQ1iQmo44kqkcgVQEgfdonyV1DWh4v2ffvrThqGr68moPai_HIvdC8o3PmsOjxytcClsK_N-YBTd9lm0Gxf7dFHA3tGkXnv=w1280
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/MMfI91ABqRXrgV2a-FohshMd1ONmSPydX9Q6cHZCCakzVd7rAi-aTExUAD0S4poNgTbKUF9DBsuwy8ohA_4FQRw=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\MMfI91ABqRXrgV2a-FohshMd1ONmSPydX9Q6cHZCCakzVd7rAi-aTExUAD0S4poNgTbKUF9DBsuwy8ohA_4FQRw=w1280
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/r4aEgK4s5P77oVwZhw9Uq6A5bPfKMi9AEpc3aHYzWEyHfsqdCK4GrzNnxSWBjgtZ0__FIF-SY8koJwiFMKNZE94yDsfoG7sMHFL6IGMPvMq3w-mItivQRMYBT8VJH1UAzA=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\r4aEgK4s5P77oVwZhw9Uq6A5bPfKMi9AEpc3aHYzWEyHfsqdCK4GrzNnxSWBjgtZ0__FIF-SY8koJwiFMKNZE94yDsfoG7sMHFL6IGMPvMq3w-mItivQRMYBT8VJH1UAzA=w1280
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/WcObYZmTpkQKXPyuB4THsmgZoFEQUEclBytgR2brf-MlRE3zZV7e0E00MCrQX30xrK-kJGfjjm176_UnhqozA77FnzIj5CoCP1zVk8rGcq5SGYCnspDQuNQeEzn3OMZOuQ=w1280
+File Name: C:\Downloaded Web Sites\www.zolla.ga\WcObYZmTpkQKXPyuB4THsmgZoFEQUEclBytgR2brf-MlRE3zZV7e0E00MCrQX30xrK-kJGfjjm176_UnhqozA77FnzIj5CoCP1zVk8rGcq5SGYCnspDQuNQeEzn3OMZOuQ=w1280
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\atari\images\cloudsearch\icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\atari\images\cloudsearch\internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite408.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\material_common_sprite408.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite408_blue.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\material_common_sprite408_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite408_gm3_grey_medium.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\material_common_sprite408_gm3_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite408_grey_medium.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\material_common_sprite408_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/shortcut_sprite1.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\shortcut_sprite1.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-icons4.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\v-icons4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_dark.gif
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\v-spinner_dark.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_gray.gif
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\v-spinner_gray.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v-sprite19.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\viewer\v-sprite19.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v3/v-sprite43.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\common\viewer\v3\v-sprite43.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner.svg
+File Name: C:\Downloaded Web Sites\www.zolla.ga\docs\picker\images\loading_spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/s2/tt/images/play-overlay.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\s2\tt\images\play-overlay.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/loading_bg_f5.gif
+File Name: C:\Downloaded Web Sites\www.zolla.ga\ui\v1\activityindicator\loading_bg_f5.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/ui/v1/dialog/close-x.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\ui\v1\dialog\close-x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\ui\v1\disclosure\small-grey-disclosure-arrow-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: C:\Downloaded Web Sites\www.zolla.ga\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.ru._0HczcRHzf8.O/d=1/rs=AGEqA5n9FfD0QdjUJUhnY4UJophmh7rdSg/m=view
+File Name: C:\Downloaded Web Sites\www.zolla.ga\_\atari\_\js\k=atari.vw.ru._0HczcRHzf8.O\d=1\rs=AGEqA5n9FfD0QdjUJUhnY4UJophmh7rdSg\m=view
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.AOD2-pzQdSc.L.X.O/d=1/rs=AGEqA5nUIQeBc4ieidA0JYJt7imMsUQ3ZQ
+File Name: C:\Downloaded Web Sites\www.zolla.ga\_\atari\_\ss\k=atari.vw.AOD2-pzQdSc.L.X.O\d=1\rs=AGEqA5nUIQeBc4ieidA0JYJt7imMsUQ3ZQ
+Content Type: text/css
+
+Uri: https://www.zolla.ga/
+File Name: C:\Downloaded Web Sites\www.zolla.ga\index.htm
+Content Type: text/html
+
+Uri: https://www.zolla.ga/главная
+File Name: C:\Downloaded Web Sites\www.zolla.ga\главная.html
+Content Type: text/html
+
+Uri: https://www.zolla.ga/контакты
+File Name: C:\Downloaded Web Sites\www.zolla.ga\контакты.html
+Content Type: text/html
+
+Uri: https://www.zolla.ga/котята
+File Name: C:\Downloaded Web Sites\www.zolla.ga\котята.html
+Content Type: text/html
+
